@@ -1,7 +1,15 @@
+" Install ctags global
+" install plugins gen-tags gtags gtags-cscope taglist tags(may not)
+" vim-tmux
+" https://github.com/amix/vimrc
+
+
+
+
 " gtags-cscope
 set csprg=gtags-cscope
 
-" Enable mounse
+" Enable mouse
 set mouse=a
 
 " Nerdtree
